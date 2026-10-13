@@ -1,16 +1,16 @@
 # Hi, I'm Rudra Ojha 👋
 
-🎓 BCA AI & Data Science Student
+🎓 BCA cyber security 
 
 🌱 Currently Learning:
 - Python
-- SQL
+- linux
 - Git & GitHub
-- Data Science
+- phishing 
 
 🎯 Goals:
-- Master Python
-- Learn Machine Learning
+- Master linux
+- Learn hacking 
 - Build AI Projects
 - Get Internship Experience
 
